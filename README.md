@@ -4,16 +4,20 @@
 
 **DonorConnect**, an application designed to connect donors and organizations for life-saving contributions. This guide will help you contribute to the project.
 
+## Table of Contents
+- [📂 Project Overview](#-project-overview)
+- [🏆 Featured in](#-featured-in)
+- [🚀 Features](##-features)
+- [🚀 Let's Get Started](#-lets-get-started)
+- [Contributing using GitHub Desktop](#alternatively-contribute-using-github-desktop)
+- [Code of Conduct](#code-of-conduct)
+- [Contributing Guidelines](#contributing-guidelines)
+- [❤️ Our Valuable Contributors](#️-our-valuable-contributors)
+- [License](#license)
+
 ## 📂 Project Overview
 
 **DonorConnect** is a Flutter-based application that provides a platform for people to donate blood and organs. Users can search and filter donors by location, blood group, and availability, as well as connect with relevant organizations.
-
-### Features:
-
-- API integrations for fetching donor data.
-- Filtering by location, blood group, and availability.
-- Organization listings with navigation options.
-- For more refer this [Click here](Feature_Functionality.md)
 
 ## 🏆 Featured in:
 
@@ -33,6 +37,18 @@
     </tr>
   </tbody>
 </table>
+
+---
+
+## 🚀 Features
+- Search for donors by location and blood group.
+- Filter donors based on availability.
+- Connect with organizations for organ donation.
+- Real-time notifications for donor availability.
+- Secure login and profile management for both donors and organizations.
+- Analytics and insights on donation trends.
+
+---
 
 <!-- Lets get started -->
 <div>
@@ -139,5 +155,31 @@
 9. **Wait for Review:**
    Your pull request will now be available for review by the project maintainers. They may provide feedback or ask for changes before merging your pull request into the main branch of the repository.
 
+---
+
+### Code of Conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+
+---
+
+### Contributing Guidelines
+
+We believe in the power of collaboration. If you have ideas to improve, feel free to contribute! 
+
+---
+
 ⭐️ Support the Project
 If you find this project helpful, please consider giving it a star on GitHub! Your support helps to grow the project and reach more contributors.
+
+## ❤️ Our Valuable Contributors
+![Contributors](https://contrib.rocks/image?repo=prajapatihet/donorconnect)
+
+# License
+
+To know more [Click Here](LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
+
